@@ -1,6 +1,8 @@
 # Sorting-Visualizer
 The Sorting Visualizer is a basic web application that allows you to visualize the process of sorting  on a set of randomly generated bars.
+
 You can have a look , how it's working !
+
 https://ayan-joshi.github.io/Sorting-Visualizer/
 # Technologies Used
 
